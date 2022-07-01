@@ -38,3 +38,9 @@ the tables are generated using Models and seeds for insert record into the datab
 ![image](./Assets/im1.png)
 ![image](./Assets/im2.png)
 
+### Vidoeo
+
+click on the link below to watch the video
+
+https://drive.google.com/file/d/1ec_B84f1rDOn3oFsh6mfa6wfyvRzUvvY/view?usp=sharing
+
