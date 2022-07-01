@@ -34,6 +34,7 @@ the tables are generated using Models and seeds for insert record into the datab
 
 
 ### Image
-
-
+![image](./Assets/im.png)
+![image](./Assets/im1.png)
+![image](./Assets/im2.png)
 
